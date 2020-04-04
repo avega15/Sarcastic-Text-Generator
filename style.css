@@ -1,0 +1,15 @@
+.container{
+	text-align: center;
+
+}
+.center{
+	display: inline-block;
+}
+p{
+	text-align: center;
+}
+textarea{
+	width: 400px;
+	height: 150px;
+	resize: none;
+}
